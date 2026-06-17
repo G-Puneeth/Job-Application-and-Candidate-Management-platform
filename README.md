@@ -1,5 +1,17 @@
 # Job-Application-and-Candidate-Management-platform
 A full-stack job application management platform that helps candidates streamline their job search through employee-assisted application workflows.
+# Screenshots
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/f14b2052-be78-4052-9619-c6f29946e8cf" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/7ce6bc5b-a3cf-4601-a44d-6c75da5812af" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/4c78eef3-95c4-4186-8a65-2c3b5a022cd1" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/fb95445b-318f-4182-bcad-03140f5d3995" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/15157f4e-7017-43ad-8858-6ca1aaca8147" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/6de770b6-e469-4f93-970a-2a69331cc4c0" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/d592b9c3-094d-450c-a865-290d482c043f" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/a359dabc-9772-4106-a802-c28b094c7d38" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/bb3cc2c1-a4e8-4b15-b5c8-0da0772b399a" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/32af7f34-2e31-4867-8e91-c7d0e3b8699a" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/b77c9427-f775-409d-b247-a825aac923f0" />
 
 ## 🚀 Overview
 
